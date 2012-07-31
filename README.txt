@@ -12,4 +12,7 @@ Click on link by Jevgeni.
 
 Right click on label (On Blogger since September 2010)
 
-Choose assertText css=p.sidebar-item.item-key On Blogger since September 2010
+Choose assertText css=p.sidebar-item.item-key On Blogger since September 2010 ...
+
+Read the whole tutorial here:
+http://jevgenimarenkov.blogspot.com/2012/07/functional-testingselenium-web-driver.html
